@@ -103,3 +103,7 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+### uff
+This was really a tough one - had to resort to the net to get help. 
+Maybe should a book on R and then take the course again. 
